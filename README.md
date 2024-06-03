@@ -38,9 +38,10 @@ Following objectives should be achieved:
 
 ## Interface
 
-![Home Screen](Screenshot 2024-02-24 002548.png).
-![LiveOption Screen](Screenshot 2024-02-24 002619.png).
-![Webcam Screen](Screenshot 2024-02-22 192912.png).
+![Home Screen](Screenshot%202024-02-24%20002548.png)
+![LiveOption Screen](Screenshot%202024-02-24%20002619.png)
+![Webcam Screen](Screenshot%202024-02-22%20192912.png)
+
 
 ## Hardware & Software Requirement
 
