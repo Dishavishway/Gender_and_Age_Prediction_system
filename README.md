@@ -38,8 +38,9 @@ Following objectives should be achieved:
 
 ## Interface
 
-- **User Interfaces**: Browser chrome latest version (supports HTML).
-- **Hardware Interface**: Windows
+![Home Screen](Screenshot 2024-02-24 002548.png).
+![LiveOption Screen](Screenshot 2024-02-24 002619.png).
+![Webcam Screen](Screenshot 2024-02-22 192912.png).
 
 ## Hardware & Software Requirement
 
